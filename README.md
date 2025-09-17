@@ -77,4 +77,4 @@ plt.show()
 # Results
 The PCM encoding process successfully quantized the original sine wave into 16 levels.
 The demodulated signal closely resembled the original signal with minor quantization noise.
-The output waveforms validated the functioning of PCM in digital communication syst
+The output waveforms validated the functioning of PCM in digital communication system.
