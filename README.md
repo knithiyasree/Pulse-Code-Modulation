@@ -75,7 +75,6 @@ plt.show()
 <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/6ba22147-a9fd-4a3f-ac64-40e4fac927ad" />
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+The PCM encoding process successfully quantized the original sine wave into 16 levels.
+The demodulated signal closely resembled the original signal with minor quantization noise.
+The output waveforms validated the functioning of PCM in digital communication syst
