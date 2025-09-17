@@ -70,8 +70,8 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
-#DM
-#Delta Modulation
+
+# Delta Modulation
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, filtfilt
@@ -130,7 +130,7 @@ plt.show()
 # Output Waveform
 #PCM
 <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/6ba22147-a9fd-4a3f-ac64-40e4fac927ad" />
-#DM
+#DELTA MODULATION
 <img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/f14a2588-2f77-4d69-969b-22307c9a70e7" />
 # Results
 The PCM encoding process successfully quantized the original sine wave into 16 levels.
